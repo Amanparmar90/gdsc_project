@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(photo/space5.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+ul{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+ul li{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding-left: 200px;
+}
+ul li a{
+    color: white;
+}
+ul li a:hover{
+    color: rgb(255, 84, 5);
+}
+iframe{
+    padding-left: 55px;
+    border-radius: 50px;
+}

@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(photo/wp9288093-space-stars-4k-wallpapers\ \(3\).jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+ul{
+    display: flex;
+}
+ul li{
+    padding-left:40px;
+    margin-left:200px;
+    list-style: none;
+    font-size: 20px;
+    margin-top: 30px;
+}
+ul li a{
+    color: white;
+}
+ul li a:hover{
+    color: aqua;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.first{
+    padding-left: 30px;
+    display: flex;
+    
+}
+.second{
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    
+}
+p{
+    font-size: 30px;
+}
+.makebox1{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    
+    
+}
+.content1{
+    font-size: 15px;
+}
+
+.makebox2{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    margin-left: 20px;
+    
+}
+.content2{
+    font-size: 15px;
+    
+}
+
+.makebox3{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.content3{
+    font-size: 15px;
+}
+
+.makebox4{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    margin-left: 20px;
+    
+}
+.content4{
+    font-size: 15px;
+}
+
+.makebox5{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    margin-left: 20px;
+    
+}
+.content5{
+    font-size: 15px;
+}
+
+.makebox6{
+    width: 500px;
+    height: 200px;
+    background: linear-gradient(rgb(252, 250, 252),rgb(68, 10, 244));
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+}
+.content6{
+    font-size: 15px;
+}
+

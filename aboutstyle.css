@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(photo/wp8280633-space-stars-4k-wallpapers.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+ul{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+ul li{
+    list-style: none;
+    padding-left: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+ul li a{
+    color: rgb(39, 234, 248);
+
+
+}
+ul li a:hover{
+    color: white;
+}
+h2{
+    color: rgb(141, 8, 134);
+    font-size: 40px;
+    padding-left: 20px;
+}
+p{
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+    font-style: italic;
+}
